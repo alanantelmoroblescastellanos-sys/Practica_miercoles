@@ -1,4 +1,5 @@
 Equipo 2, su codigo va aqui
+codigo 1:
 #include <iostream>
 using namespace std;
 int main (){
@@ -11,4 +12,11 @@ suma = a+b;
 cout << "resultado es; " << suma;
 system ("pause");
 return 0;
+}
+
+codigo 2:
+#include <iostream>
+int main (){
+	std::cout << "hello world";
+	return 0;
 }

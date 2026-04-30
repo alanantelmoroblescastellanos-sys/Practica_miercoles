@@ -1,1 +1,11 @@
 Equipo 2,su pseudocodigo va aqui
+Algoritmo sin_titulo
+	definir n1,n2, suma Como Real
+	Escribir "teclea el primer numero:"
+	Leer n1
+	Escribir "teclea el segundo numero:"
+	Leer n2
+	suma<-n1+n2
+	Escribir "el resultado es:",suma
+FinAlgoritmo
+

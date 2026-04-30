@@ -1,4 +1,5 @@
 Equipo 2,su pseudocodigo va aqui
+pseucodigo 1:
 Algoritmo sin_titulo
 	definir n1,n2, suma Como Real
 	Escribir "teclea el primer numero:"
@@ -7,5 +8,10 @@ Algoritmo sin_titulo
 	Leer n2
 	suma<-n1+n2
 	Escribir "el resultado es:",suma
+FinAlgoritmo
+
+pseucodigo 2:
+Algoritmo sin_titulo
+	Escribir "Hello World";
 FinAlgoritmo
 

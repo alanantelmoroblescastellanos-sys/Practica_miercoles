@@ -1,1 +1,14 @@
 Equipo 4, aqui pondran su codigo
+using namespace std;
+
+int main() {
+    int a = 10, b = 0, resultado;
+
+    if (b != 0) {
+        resultado = a / b;
+        cout << "Resultado: " << resultado;
+    } else {
+        cout << "Error: no se puede dividir entre cero";
+    }
+
+    return 0;

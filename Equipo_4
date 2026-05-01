@@ -1,1 +1,9 @@
 Equipo 4, aqui pondran su codigo
+#include <iostream>
+using namespace std;
+
+int main() {
+    int a = 3, b = 5, c = 7, suma;
+    suma = a + b + c;
+    cout << "La suma total es: " << suma << endl;
+    return 0;

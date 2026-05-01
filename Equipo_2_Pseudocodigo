@@ -1,1 +1,43 @@
 Equipo 2,su pseudocodigo va aqui
+pseucodigo 1:
+Algoritmo sin_titulo
+	definir n1,n2, suma Como Real
+	Escribir "teclea el primer numero:"
+	Leer n1
+	Escribir "teclea el segundo numero:"
+	Leer n2
+	suma<-n1+n2
+	Escribir "el resultado es:",suma
+FinAlgoritmo
+
+pseucodigo 2:
+Algoritmo sin_titulo
+	Escribir "Hello World";
+FinAlgoritmo
+pseucodigo 3:
+Algoritmo sin_titulo
+	definir A Como Real
+	A=10
+	Escribir "tu numero es:",a
+FinAlgoritmo
+
+pseucodigo 4:
+Algoritmo sin_titulo
+	definir a,b,c,suma Como Real
+	a<-5
+	b<-5
+	c<-5
+	suma <- a+b+c
+	Escribir "la suma es:",suma
+FinAlgoritmo
+
+pseucodigo 5:
+Algoritmo sin_titulo
+	Definir a,b,div Como real
+	a<-10
+	b<-9
+	div<-a/b
+	Escribir "el resultado es:",div
+FinAlgoritmo
+
+

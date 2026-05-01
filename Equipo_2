@@ -1,1 +1,57 @@
 Equipo 2, su codigo va aqui
+codigo 1:
+#include <iostream>
+using namespace std;
+int main (){
+int a,b,suma;
+cout <<"ingresa el primer numero: ";
+cin >> a;
+cout <<"ingresa el segundo numero:";
+cin >> b;
+suma = a+b;
+cout << "resultado es; " << suma;
+system ("pause");
+return 0;
+}
+
+codigo 2:
+#include <iostream>
+int main (){
+	std::cout << "hello world";
+	return 0;
+}
+
+codigo 3: 
+#include <iostream>
+using namespace std;
+int main () {
+	
+	int a = 10;
+	cout << "tu numero es :" <<a;
+	return 0;
+}
+codigo 4:
+
+#include <iostream>
+using namespace std;
+int main ()
+{
+int a=5,b=5,c=5,suma;
+ 
+
+suma = a+b+c;
+cout << "la suma total es de:" << suma ;
+return 0;
+
+
+}
+codigo 5:
+#include <iostream>
+using namespace std;
+
+int main(){
+int a = 10, b = 9,resultado;
+resultado=a/b; // division entre cero
+cout << "Resultado:" << resultado;
+return 0;
+}

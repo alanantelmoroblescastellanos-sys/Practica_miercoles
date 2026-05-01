@@ -1,1 +1,8 @@
 Equipo 4, aqui pondran su codigo
+#include <iostream>
+using namespace std;
+
+int main(){
+	int a = 10;
+	cout<<a<< endl;
+	return 0;
